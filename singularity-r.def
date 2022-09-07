@@ -42,22 +42,11 @@ From: ubuntu:20.04
     "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
   apt-get install -y --no-install-recommends \
     r-base=${R_VERSION}* \
-    r-base-core=${R_VERSION}* \
-    r-base-dev=${R_VERSION}* \
+    r-base-core \
+    r-base-dev \
     r-recommended=${R_VERSION}* \
-    r-base-html=${R_VERSION}* \
-    r-doc-html=${R_VERSION}* \
-    r-cran-cluster
-    r-cran-foreign
-    r-cran-lattice
-    r-cran-mgcv
-    r-cran-nlme
-    r-cran-rpart
-    r-cran-survival
-    r-cran-mass
-    r-cran-class
-    r-cran-nnet
-    r-cran-matrix
+    r-base-html \
+    r-doc-html \
     libcurl4-openssl-dev \
     libssl-dev \
     libxml2-dev \
