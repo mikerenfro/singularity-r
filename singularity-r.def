@@ -66,4 +66,4 @@ From: ubuntu:20.04
 
 %test
 export R_VERSION=4.1.0
-R --quiet -e "stopifnot(getRversion() == '${R_VERSION}')"
+R -e "stopifnot(getRversion() == '${R_VERSION}')"
