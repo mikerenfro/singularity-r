@@ -65,5 +65,5 @@ From: ubuntu:20.04
   rm -rf /var/lib/apt/lists/*
 
 %test
-
+export R_VERSION=4.1.0
 R --quiet -e "stopifnot(getRversion() == '${R_VERSION}')"
