@@ -47,6 +47,17 @@ From: ubuntu:20.04
     r-recommended=${R_VERSION}* \
     r-base-html=${R_VERSION}* \
     r-doc-html=${R_VERSION}* \
+    r-cran-cluster=${R_VERSION}*
+    r-cran-foreign=${R_VERSION}*
+    r-cran-lattice=${R_VERSION}*
+    r-cran-mgcv=${R_VERSION}*
+    r-cran-nlme=${R_VERSION}*
+    r-cran-rpart=${R_VERSION}*
+    r-cran-survival=${R_VERSION}*
+    r-cran-mass=${R_VERSION}*
+    r-cran-class=${R_VERSION}*
+    r-cran-nnet=${R_VERSION}*
+    r-cran-matrix=${R_VERSION}*
     libcurl4-openssl-dev \
     libssl-dev \
     libxml2-dev \
