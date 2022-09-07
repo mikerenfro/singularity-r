@@ -42,7 +42,7 @@ From: ubuntu:20.04
     "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
   apt-get install -y --no-install-recommends \
     r-base=${R_VERSION}* \
-    r-base-core \
+    r-base-core=${R_VERSION}* \
     r-base-dev \
     r-recommended=${R_VERSION}* \
     r-base-html \
