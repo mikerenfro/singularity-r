@@ -1,4 +1,4 @@
-# Singularity R
+# Singularity R 4.2
 
 [![Continuous Integration Status](https://github.com/nickjer/singularity-r/workflows/Continuous%20Integration/badge.svg)](https://github.com/nickjer/singularity-r/actions)
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
