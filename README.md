@@ -1,11 +1,11 @@
-# Singularity R with more changes
+# Singularity R 4.2 with changes
 
 [![Continuous Integration Status](https://github.com/nickjer/singularity-r/workflows/Continuous%20Integration/badge.svg)](https://github.com/nickjer/singularity-r/actions)
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Singularity image for [R].
 
-This is still a work in progress.
+This is still a work in progress. Very much so.
 
 ## Build
 
