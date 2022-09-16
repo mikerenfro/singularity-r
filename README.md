@@ -5,7 +5,7 @@
 
 Singularity image for [R].
 
-This is still a work in progress.
+This is still a work in progress. Very much so.
 
 ## Build
 
